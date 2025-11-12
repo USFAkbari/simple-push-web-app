@@ -1,0 +1,12 @@
+node_modules
+.git
+.github
+test
+tests
+*.log
+Dockerfile*
+docker-compose*.yml
+renovate.json
+*.md
+frontend/*.map
+frontend/node_modules
