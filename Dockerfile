@@ -10,7 +10,7 @@ FROM node:18-alpine
 
 WORKDIR /app
 
-ENV NODE_ENV=production
+ENV NODE_ENV=dev
 ENV PORT=8081
 ENV ACCESS_CONTROL=*
 
